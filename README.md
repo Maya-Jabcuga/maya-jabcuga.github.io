@@ -1,2 +1,2 @@
 # mayajabc.github.io
-Computer engineering student at University at Buffalo sharing tech projects, coding tips, and day-in-the-life content.
+Computer Engineering student at University at Buffalo specializing in embedded systems, web development, and open-source software. Explore my portfolio and follow my tech journey
